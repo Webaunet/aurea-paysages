@@ -174,3 +174,4 @@ section{position:relative}
 @media(max-width:560px){.recap .btn{width:100%}}
 .coord p{margin-bottom:1.1rem}
 @media(max-width:860px){.contact{grid-template-columns:1fr}}
+@media(max-width:420px){.logo svg{width:34px;height:34px}.logo{gap:.5rem}.logo b{font-size:1.25rem}.logo small{letter-spacing:.06em}.head .wrap{gap:.5rem}.head .btn{padding:0 .9rem}.head .btn svg{display:none}.head-act{gap:.4rem}}
